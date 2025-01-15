@@ -1,0 +1,13 @@
+[
+    {
+      "title": "Project One",
+      "description": "A simple web application built with HTML, CSS, and JavaScript.",
+      "url": "https://example.com/project-one"
+    },
+    {
+      "title": "Project Two",
+      "description": "A full-stack application built with Node.js and MongoDB.",
+      "url": "https://example.com/project-two"
+    }
+  ]
+  
