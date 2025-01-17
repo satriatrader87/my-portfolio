@@ -266,7 +266,7 @@ Once the website is deployed, it will be hosted permanently on Arweave. You can 
 You can access it at [Deployed URL](https://arweave.net/rzLvtjTdPSWYEfDimQcDNSmEjEJxzSCe5O1xqXW7fME/)
 
 ## Screenshots
-![Home Page Screenshot](src/images/home-ss.png)
-![Batik Page Screenshot](src/images/batik-ss.png)
-![Wayang Page Screenshot](src/images/wayang-ss.png)
-![Ikebana Page Screenshot](src/images/ikebana-ss.png)
+![Home Page Screenshot](/traditional-art-site/src/images/home-ss.png)
+![Batik Page Screenshot](/traditional-art-site/src/images/batik-ss.png)
+![Wayang Page Screenshot](/traditional-art-site/src/images/wayang-ss.png)
+![Ikebana Page Screenshot](/traditional-art-site/src/images/ikebana-ss.png)
