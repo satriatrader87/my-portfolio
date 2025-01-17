@@ -58,6 +58,7 @@ traditional-art-site/
 └── README.md
 ```
 
+
 ### 4. Create Eleventy Configuration File
 
 Create an .eleventy.js file in the root directory to configure Eleventy:
